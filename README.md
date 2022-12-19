@@ -1,9 +1,9 @@
 <div align="center">
   
-### Im galim 🤍
+### Im galim 💜
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239C9C9C&title_bg=%23FFA4BE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgalimii&count_bg=%238D8D8D&title_bg=%23FF9EB6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 <!--
 **galimii/galimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
