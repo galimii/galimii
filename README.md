@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  
+### Im galim 🤍
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239C9C9C&title_bg=%23FFA4BE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **galimii/galimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![AS0005816_05](https://user-images.githubusercontent.com/93652129/208348313-a35dd025-ae0e-4112-8629-fe61db20c366.gif)
+  </div>
