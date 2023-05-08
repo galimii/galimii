@@ -14,25 +14,26 @@
 <img src="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white" /><br />  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245.svg?&style=for-the-badge&logo=React Router&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
 <br />
   <br />
   
- ### 🤍 About Me 🤍
-  <a href="https://velog.io/@galimi">
+<!--  ### 🤍 About Me 🤍 -->
+<!--   <a href="https://velog.io/@galimi">
 <img src="https://img.shields.io/badge/Tech Blog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
-  
-  </a>
+   -->
+<!--   </a>
   <a href="mailto:dev.galim@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
+  </a> -->
   
   <br />
   <br />
   
-[![GaLim's github stats](https://github-readme-stats.vercel.app/api?username=galimii&count_private=true&custom_title=Galim's&nbsp;github&nbsp;&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![imgalim's github stats](https://github-readme-stats.vercel.app/api?username=galimii&count_private=true&custom_title=Galim's&nbsp;github&nbsp;&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
